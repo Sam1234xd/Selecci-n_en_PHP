@@ -1,4 +1,14 @@
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Resumen turístico</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+<div class="s">
+
 <?php
 
 echo "<h1>Resumen de paquete turístico</h1>";
@@ -50,7 +60,12 @@ echo $total;
 
 ?>
 
+</div>
+
 <br><br>
 <form action="opciones.php" method="POST">
-    <input type="submit" value="Regresar">
+    <button type="submit">Regresar</button>
 </form>
+
+</body>
+</html>

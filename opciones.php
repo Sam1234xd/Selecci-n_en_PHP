@@ -4,11 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Paquete turístico</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
 
     <h1>Agencia de viajes</h1>
+    <div class="Ti">
     <h2>Personaliza tu paquete turístico</h2>
+    </div>
 
     <form action="resultados.php" method="POST">
 
