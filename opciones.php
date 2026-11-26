@@ -33,13 +33,13 @@
         </label><br>
 
         <label for="opcion-2">
-            <input type="checkbox" value="Paseo_en_lancha"
+            <input type="checkbox" value="Paseo en lancha"
                    id="opcion-2" name="actividades[]">
                    Paseo en lancha
         </label><br>
 
         <label for="opcion-3">
-            <input type="checkbox" value="Visita_a_zonas_arqueologicas"
+            <input type="checkbox" value="Visita a zonas arqueologicas"
                    id="opcion-3" name="actividades[]">
                    Visita a zonas arqueológicas
         </label><br>
@@ -51,19 +51,19 @@
         </label><br>
 
         <label for="opcion-5">
-            <input type="checkbox" value="Pesca_deportiva"
+            <input type="checkbox" value="Pesca deportiva"
                    id="opcion-5" name="actividades[]">
                    Pesca deportiva
         </label><br>
 
         <label for="opcion-6">
-            <input type="checkbox" value="Recorrido_gastronomico"
+            <input type="checkbox" value="Recorrido gastronomico"
                    id="opcion-6" name="actividades[]">
                    Recorrido gastronómico
         </label><br>
 
         <label for="opcion-7">
-            <input type="checkbox" value="Visita_a_museos"
+            <input type="checkbox" value="Visita a ssmuseos"
                    id="opcion-7" name="actividades[]">
                    Visita a museos
         </label><br>
@@ -72,37 +72,37 @@
         <h2>Servicios adicionales</h2>
 
         <label for="opcion-8">
-            <input type="checkbox" value="Transporte_al_aeropuerto"
+            <input type="checkbox" value="Transporte al aeropuerto"
                    id="opcion-8" name="servicios[]">
                    Transporte al aeropuerto
         </label><br>
 
         <label for="opcion-9">
-            <input type="checkbox" value="Desayuno_incluido"
+            <input type="checkbox" value="Desayuno incluido"
                    id="opcion-9" name="servicios[]">
                    Desayuno incluido
         </label><br>
 
         <label for="opcion-10">
-            <input type="checkbox" value="Hospedaje_de_lujo"
+            <input type="checkbox" value="Hospedaje de lujo"
                    id="opcion-10" name="servicios[]">
                    Hospedaje de lujo
         </label><br>
 
         <label for="opcion-11">
-            <input type="checkbox" value="Seguro_de_viajero"
+            <input type="checkbox" value="Seguro de viajero"
                    id="opcion-11" name="servicios[]">
                    Seguro de viajero
         </label><br>
 
         <label for="opcion-12">
-            <input type="checkbox" value="Renta_de_automovil"
+            <input type="checkbox" value="Renta de automovil"
                    id="opcion-12" name="servicios[]">
                    Renta de automóvil
         </label><br>
 
         <label for="opcion-13">
-            <input type="checkbox" value="Guia_turistico"
+            <input type="checkbox" value="Guia turistico"
                    id="opcion-13" name="servicios[]">
                    Guía turístico
         </label><br>
